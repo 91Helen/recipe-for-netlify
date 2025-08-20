@@ -1,4 +1,4 @@
-import { use, useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import video from "./cooking-animation.mp4";
 import MyRecipeComponent from "./MyRecipeComponent";
